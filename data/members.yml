@@ -1,0 +1,33 @@
+exec:
+- name: Peter Kim
+  position: President
+  description: B. A. candidate in Economics-Mathematics & Sustainable Development, CC'14
+  image: img/members/peterkim.jpg
+- name: Joohyun Kate Lee
+  position: Vice President & Secretary
+  description: CC'15
+  image: 
+- name: James Hong
+  position: Treasurer
+  description: B. S. candidate in Computer Engineering, SEAS'15
+  image: img/members/jameshong.jpg
+- name: Lisa Tan
+  position: Political Chair
+  description: CC'14
+  image: 
+- name: Soya Seo
+  position: Co-PR Chair
+  description: CC'14
+  image: 
+- name: Erika Suh Holmberg
+  position: Co-PR Chair
+  description: CC'16
+  image: 
+- name: James Cheong
+  position: Event Coordinator
+  description: M. S. candidate in Operations Research, SEAS'15
+  image: 
+ocm:
+- name: Jeehyun Wang
+  description: SEAS'16
+  image: img/members/jeehyunwang.jpg

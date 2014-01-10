@@ -6,7 +6,7 @@ exec:
 - name: Joohyun Kate Lee
   position: Vice President & Secretary
   description: CC'15
-  image: 
+  image: img/members/katelee.jpg
 - name: James Hong
   position: Treasurer
   description: B. S. candidate in Computer Engineering, SEAS'15
@@ -14,20 +14,48 @@ exec:
 - name: Lisa Tan
   position: Political Chair
   description: CC'14
-  image: 
+  image: img/members/lisatan.jpg
 - name: Soya Seo
-  position: Co-PR Chair
+  position: Co PR-Chair
   description: CC'14
-  image: 
+  image: img/members/soyaseo.jpg
 - name: Erika Suh Holmberg
-  position: Co-PR Chair
+  position: Co PR-Chair
   description: CC'16
-  image: 
+  image: img/members/erikaholmberg.jpg
 - name: James Cheong
   position: Event Coordinator
   description: M. S. candidate in Operations Research, SEAS'15
-  image: 
+  image: img/members/jamescheong.jpg
+
 ocm:
+- name: Nawaz Sultani
+  description: CC'16
+  image: img/members/nawazsultani.jpg
 - name: Jeehyun Wang
   description: SEAS'16
   image: img/members/jeehyunwang.jpg
+- name: InYoung Rachel Lim
+  description: CC'17
+  image:
+- name: Jason Lee
+  description: 
+  image:
+- name: Daniel Hong
+  description: CC'17
+  image:
+- name: Jiyoung Kim
+  description: Barnard'16
+  image:
+- name: Hannah Kim
+  description: Barnard'16
+  image:
+- name: Julia JooHee Lee
+  description: SEAS'16
+  image:
+- name: Chee Lee
+  description: CC'16
+  image: img/members/cheelee.jpg
+- name: Gijae Han
+  description: CC'16
+  image:

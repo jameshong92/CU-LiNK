@@ -1,33 +1,53 @@
 upcoming:
-- event: North Korea: A Closer Look (Speaker Panel + Free Dinner)
-  description: 
+- event: "North Korea: A Closer Look<br>(Speaker Panel + Free Dinner)"
+  date: 6-8PM on December 5, 2013
+  location: Lerner 555
+  description: CU Liberty in North Korea is proud to present "North Korea A Closer Look," which will feature three prominent speakers discussing their perspectives on the reality of the current humanitarian and political situation in North Korea.</p><p>FREE KOREAN DINNER will be provided for all attendees! (Admission is free, too!)</p><p>An open discussion / Q&A session will follow the speeches and dinner.
   image: img/events/12052013.jpg
   url: https://www.facebook.com/events/218827758299679/
 past:
-- event: North Korea: A Closer Look (Speaker Panel + Free Dinner)
+- event: "North Korea: A Closer Look"
+  date: December 5, 2013
+  description: CU Liberty in North Korea is proud to present "North Korea A Closer Look," which will feature three prominent speakers discussing their perspectives on the reality of the current humanitarian and political situation in North Korea.
   image: img/events/12052013.jpg
   url: https://www.facebook.com/events/218827758299679/
-- event: CU LiNK Presents: The Story of North Korean Defector, Young il Kim
+- event: "The Story of Mr. Young Il Kim"
+  date: October 30, 2013
+  description: Come hear Mr. Young il Kim, a North Korean defector, share his incredible life story with the Columbia community. He will speak about his life in North Korea, how he managed to escape the regime, the difficulties he faced adjusting to life in South Korea, and how he became the Executive Director of PSCORE, a non-profit organization.
   image: img/events/10302013.jpg
   url: https://www.facebook.com/events/1429515663927842/
-- event: CU LiNK Presents: "Danny From North Korea" Screening
+- event: "\"Danny From North Korea\" Screening"
+  date: October 17, 2013
+  description: Come watch "Danny From North Korea," a documentary made by LiNK about the story of one of the many North Korean refugees they helped find freedom. Representatives from LiNK (our parent organization) will be at the event to talk about the North Korean refugee crisis and how we can help!
   image: img/events/10172013.jpg
   url: https://www.facebook.com/events/649070025125081/
-- event: CU LiNK Presents: "Crossing" Film Screening
+- event: "\"Crossing\" Film Screening"
+  date: September 26, 2013
+  description: Come watch FREE screening of "Crossing," a film based on the true story of a brave North Korean defector's desperate attempt to save his family. FREE KOREAN FOOD will be served!
   image: img/events/09262013.jpg
   url: https://www.facebook.com/events/1384708215095984/
-- event: CU LiNK Presents THE DEFECTOR, and a videochat discussion with Director ANN SHIN
+- event: "\"The Defector\" Film Screening"
+  date: April 28, 2013
+  description: Come to our screening of Ann Shin's THE DEFECTOR! There will be a follow-up discussion in which viewers will have the opportunity to hear from and ask questions to Director Ann Shin via videochat!
   image: img/events/04282013.jpg
   url: https://www.facebook.com/events/530649890311086/
-- event: CU LiNK Presents: Danny from North Korea, The Human Side to the North Korean Human Rights Crisis
+- event: "\"Danny from North Korea\" Screening"
+  date: April 17, 2013
+  description: Come to our screening of LiNK's "Danny from North Korea!" We'll also be going over further ways to make a difference, and SHIFT the course of our conversation regarding North Korea.
   image: img/events/04172013.jpg
   url: https://www.facebook.com/events/506988679348227/
-- event: Columbia Liberty in North Korea Presents: The North Korean Crisis
-  image: img/events/12032012.jpg
+- event: "The North Korean Crisis"
+  date: December 3, 2012
+  description: CU LiNK will be holding a speaker/dinner event, and we have invited four SIPA students, Professor Jeung-Ho Roh (Director of the Center for Korean Legal Studies and Lecturer in Law), and Professor Charles Armstrong (Director of the Center for Korean Studies) to talk about the current issues in North Korea.
+  image: img/events/12032012.png
   url: https://www.facebook.com/events/493506417360866/
-- event: CU LiNK Movie Screening: The People's Crisis
+- event: "\"The People's Crisis\" Film Screening"
+  date: October 26, 2012
+  description: CU Liberty in North Korea has invited a team of rescuers of North Korean defectors, the Nomads, to raise awareness about the North Korea crisis. We will be hosting a documentary screening of “The People’s Crisis.”
   image: img/events/10262012.jpg
   url: https://www.facebook.com/events/211216385676920/
 - event: Journalist Euna Lee on North Korea
+  date: April 6, 2012
+  description: CU LiNK has invited Euna Lee, a producer for Current TV who was detained in North Korea in 2009 and later released with the help of Former President Clinton's diplomatic engagements with the North Korean state. She will be speaking about the North Korean humanitarian crisis, her experiences of being detained, and what you can do to alleviate the plight of North Korean refugees.
   image: img/events/04062012.jpg
   url: https://www.facebook.com/events/257111967716879/

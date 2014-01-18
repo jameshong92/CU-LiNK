@@ -6,56 +6,71 @@ exec:
 - name: Joohyun Kate Lee
   position: Vice President & Secretary
   description: CC'15
-  image: img/members/katelee.jpg
-- name: James Hong
+  image:
+- name: James Hyunseung Hong
   position: Treasurer
   description: B. S. candidate in Computer Engineering, SEAS'15
   image: img/members/jameshong.jpg
 - name: Lisa Tan
   position: Political Chair
   description: CC'14
-  image: img/members/lisatan.jpg
+  image:
 - name: Soya Seo
   position: Co PR-Chair
   description: CC'14
-  image: img/members/soyaseo.jpg
+  image:
 - name: Erika Suh Holmberg
   position: Co PR-Chair
-  description: CC'16
+  description: B. A. candidate in East-Asian Languages and Cultures & Political Science, CC'16
   image: img/members/erikaholmberg.jpg
 - name: James Cheong
-  position: Event Coordinator
+  position: Director of Event Management
   description: M. S. candidate in Operations Research, SEAS'15
-  image: img/members/jamescheong.jpg
+  image:
 
 ocm:
 - name: Nawaz Sultani
   description: CC'16
-  image: img/members/nawazsultani.jpg
-- name: Jeehyun Wang
-  description: SEAS'16
-  image: img/members/jeehyunwang.jpg
-- name: InYoung Rachel Lim
+  image:
+- name: InYoung Rachel Kim
   description: CC'17
   image:
 - name: Jason Lee
   description: 
   image:
 - name: Daniel Hong
-  description: CC'17
+  description: B. S. candidate in Mechanical Engineering, SEAS'17
   image:
+- name: Jeehyun Wang
+  description: B. S. candidate in Computer Science, SEAS'16
+  image: img/members/jeehyunwang.jpg
 - name: Jiyoung Kim
-  description: Barnard'16
+  description: BC'16
   image:
 - name: Hannah Kim
-  description: Barnard'16
+  description: BC'16
   image:
-- name: Julia JooHee Lee
-  description: SEAS'16
+- name: Julia Joo Hee Lee
+  description: B. S. candidate in Biomedical Engineering, SEAS'16
+  image:
+- name: Janet Jisoo Park
+  description: B. A. candidate in East-Asian Languages and Cultures & Political Science, CC'16
+  image:
+- name: Yeana Lee
+  description: 
+  image:
+- name: Michelle Lam
+  description: 
+  image:
+- name: April Cho
+  description: 
   image:
 - name: Chee Lee
   description: CC'16
-  image: img/members/cheelee.jpg
+  image:
+- name: Rachel Lim
+  description: 
+  image:
 - name: Gijae Han
-  description: CC'16
+  description: B. A. candidate in Political Science, CC'16
   image:

@@ -13,15 +13,14 @@ title: Members | CU Liberty in North Korea
 
 <div class="container w">
   <div class="row centered">
-    <h1>2013-2014 Executive Board</h1>
-    <br>
     <div id="exec">
+      <h1>2013-2014 Executive Board</h1>
       <!-- add 4 e-board members per row -->
       <% data.members.exec.each_slice(4) do |slice| %>
         <div class="row">
           <% slice.each do |member| %>
             <div class="col-sm-3">
-               <%= tag :img, src: (member.image or 'img/logos/link_logo.jpg'), class:"img-thumbnail" %><br>
+               <%= tag :img, src: (member.image or 'img/logos/link_logo.jpg'), class:"member-thumbnail" %><br>
               <h4><%= member.name %></h4>
               <b><%= member.position %></b>
               <p><%= member.description %></p>
@@ -34,15 +33,14 @@ title: Members | CU Liberty in North Korea
   <br>
   <hr>
   <div class="row centered">
-    <h1>Organizational Committee Members</h1>
-    <br>
     <div id="ocm">
+      <h1>Organizational Committee Members</h1>
       <!-- add 4 OCMs per row -->
       <% data.members.ocm.each_slice(4) do |slice| %>
         <div class="row">
           <% slice.each do |member| %>
             <div class="col-sm-3">
-              <%= tag :img, src: (member.image or 'img/logos/link_logo.jpg'), class:"img-thumbnail" %><br>
+              <%= tag :img, src: (member.image or 'img/logos/link_logo.jpg'), class:"member-thumbnail" %><br>
               <h4><%= member.name %></h4>
               <p><%= member.description %></p>
             </div>

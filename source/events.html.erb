@@ -1,37 +1,39 @@
 ---
 title: Events | CU Liberty in North Korea
 ---
+
 <div id="lg">
 	<div class="container">
-  <div class="row centered">
-    <h1>Upcoming Event</h1>
-    <div id="upcoming">
-    	<% data.events.upcoming.each do |event| %>
-		    <div class="row">
-		    	<div class="col-md-6">
-					<h2><%= event.event %></h2>
-					<h4>WHEN: <b><%= event.date %></b></h4>
-					<h4>WHERE: <b><%= event.location %></b></h4>
-					<p><%= event.description %></p>
-					<%= link_to 'Go to Facebook Event', event.url, target: "_blank", class: 'btn btn-danger centered' %>
-				</div>
-		    	<div class="col-md-6">
-		    		<div class="image">
-						<%= tag :img, src: (event.image or 'img/logos/link_logo.jpg') %><br>
-					</div>
-				</div>
-		    </div>
-	    <% end %>
-    </div>
-  </div>
-  <br>
+		<div class="row centered">
+			<div id="upcoming">
+				<h1>Upcoming Event</h1>
+				<% data.events.upcoming.each do |event| %>
+				    <div class="row">
+				    	<div class="col-lg-6">
+							<h2><%= event.event %></h2>
+							<h4>WHEN: <b><%= event.date %></b></h4>
+							<h4>WHERE: <b><%= event.location %></b></h4>
+							<p><%= event.description %></p>
+							<%= link_to 'Go to Facebook Event', event.url, target: "_blank", class: 'btn btn-danger centered' %>
+						</div>
+				    	<div class="col-lg-6">
+				    		<div class="image">
+								<%= tag :img, src: (event.image or 'img/logos/link_logo.jpg') %><br>
+							</div>
+						</div>
+				    </div>
+			    <% end %>
+			</div>
+		</div>
+		<br>
+	</div>
 </div>
-</div>
+
 <div class="container w">
   <div class="row centered">
-    <h1 class=centered>Previous Events</h1>
     <div id="past">
-		<!-- add 4 OCMs per row -->
+		<!-- add 3 events per row -->
+		<h1>Previous Events</h1>
 		<% data.events.past.each_slice(3) do |slice| %>
 			<div class="row">
 				<% slice.each do |event| %>

@@ -21,7 +21,7 @@ title: Members | CU Liberty in North Korea
         <div class="row">
           <% slice.each do |member| %>
             <div class="col-sm-3">
-               <%= tag :img, src: (member.image or 'img/logos/link_logo.jpg'), class:"member-thumbnail" %><br>
+               <%= tag :img, src: (member.image or 'img/logos/link_logo.jpg'), class:"member-thumbnail", alt: member.name %><br>
               <h4><%= member.name %></h4>
               <b><%= member.position %></b>
               <p><%= member.description %></p>
@@ -41,7 +41,7 @@ title: Members | CU Liberty in North Korea
         <div class="row">
           <% slice.each do |member| %>
             <div class="col-sm-3">
-              <%= tag :img, src: (member.image or 'img/logos/link_logo.jpg'), class:"member-thumbnail" %><br>
+              <%= tag :img, src: (member.image or 'img/logos/link_logo.jpg'), class:"member-thumbnail", alt: member.name %><br>
               <h4><%= member.name %></h4>
               <p><%= member.description %></p>
             </div>

@@ -433,6 +433,7 @@ a:after {
 @media (max-width: 354px) {
     #past .image {
         width: 260px;
+        height: 130px;
     }
 }
 
@@ -492,4 +493,33 @@ a:after {
 #contact .dg:hover,
 #contact .lg:hover {
     background-color: #ECC3BF;
+}
+
+/****** PHOTOS ******/
+#photos .col-sm-3 {
+    margin-bottom: 20px;
+}
+
+#photos .image {
+    width: 200px;
+    height: 200px;
+    position:relative;
+    overflow:hidden;
+    margin: 0 auto;
+    background-position: center center;
+    background-size: cover;
+}
+
+@media (max-width: 767px) {
+      #photos .image {
+        width: 200px;
+        height: 200px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+      #photos .image {
+        width: 150px;
+        height: 150px;
+    }
 }

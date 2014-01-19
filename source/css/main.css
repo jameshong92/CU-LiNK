@@ -16,9 +16,13 @@ body {
     margin-top: 50px;
 }
 
-body:before {
-    content: url('../img/main/link_bg.jpg') url('../img/main/about_bg.png') url('../img/main/members_bg.png');
-    display:none;
+#preloadMain {
+    width: 0px;
+    height: 0px;
+    display: none;
+    background-image: url(../img/main/link_bg.jpg);
+    background-image: url(../img/main/about_bg.jpg);
+    background-image: url(../img/main/members_bg.jpg);
 }
 
 /* Titles */
@@ -132,7 +136,7 @@ a:after {
 
 /* Header Wrap */
 #headerwrap {
-	background-image: url('../img/main/link_bg.jpg');
+    background: url(../img/main/link_bg.jpg) no-repeat center top;
 	margin-top: -10px;
 	padding-top:20px;
 	text-align:center;
@@ -262,7 +266,7 @@ a:after {
 
 /****** ABOUT US ******/
 #about {
-    background-image: url('../img/main/about_bg.png');
+    background: url(../img/main/about_bg.jpg) no-repeat center top;
     margin-top: -10px;
     padding-top:20px;
     text-align:center;
@@ -304,7 +308,7 @@ a:after {
 
 /****** MEMBERS ******/
 #members {
-    background-image: url('../img/main/members_bg.png');
+    background: url(../img/main/members_bg.jpg) no-repeat center top;
     margin-top: -10px;
     padding-top:20px;
     text-align:center;

@@ -1,6 +1,9 @@
 ---
 title: Photos | CU Liberty in North Korea
 ---
+<% content_for :css do %>
+	<link rel="stylesheet" href="fancybox/jquery.fancybox-v=2.1.5.css" type="text/css" media="screen">
+<% end %>
 
 <div id="fb-root"></div>
 <div class="container w centered">
@@ -11,4 +14,18 @@ title: Photos | CU Liberty in North Korea
 
 <% content_for :js do %>
 	<script src="js/photos.js"></script>
+	<script type="text/javascript" src="fancybox/jquery.fancybox.pack-v=2.1.5.js"></script>
+	<script>
+	$(document).ready(function(e) {
+		$(".fancybox").fancybox({
+			padding: 10,
+			helpers: {
+				overlay: {
+					locked: false
+				}
+			}
+		});
+	
+	});
+	</script>
 <% end %>

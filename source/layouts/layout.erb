@@ -16,6 +16,10 @@
         <link href="css/bootstrap.css" rel="stylesheet">
         <link href="css/font-awesome.min.css" rel="stylesheet">
 
+        <% if content_for?(:css) %>
+            <%= yield_content :css %>
+        <% end %>
+
         <!-- Custom styles -->
         <link href="css/main.css" rel="stylesheet">
     </head>

@@ -29,7 +29,7 @@ var getPhotos = function() {
           var $row = '<div class="row">';
           var limit = data.length > 23 ? 24 : data.length;
           for (var count = data.length-1; count >= data.length-limit; count--) {
-              var link = '<div class="col-sm-3"><div class="image" style="background-image: url(' + data[count].source + ')"></div></div>';
+              var link = '<div class="col-sm-3"><a data-fancybox-group="portfolio" class="fancybox" href="' + data[count].source + '"><div class="image" style="background-image: url(' + data[count].source + ')"></div></a></div>';
               $row = $row + link;
           }
           $row = $row + '</div>';

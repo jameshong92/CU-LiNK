@@ -27,10 +27,9 @@
 
         <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
-        <script src="js/main.js"></script>
 
-        <% if content_for?(:body) %>
-            <%= yield_content :body %>
+        <% if content_for?(:js) %>
+            <%= yield_content :js %>
         <% end %>
     </body>
 </html>

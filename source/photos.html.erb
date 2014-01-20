@@ -4,10 +4,11 @@ title: Photos | CU Liberty in North Korea
 
 <div id="fb-root"></div>
 <div class="container w centered">
+	<h1>Event Photos</h1>
 	<div id="photos">
 	</div>
 </div>
 
-<% content_for :body do %>
-	<%= javascript_include_tag "photos" %>
+<% content_for :js do %>
+	<script src="js/photos.js"></script>
 <% end %>

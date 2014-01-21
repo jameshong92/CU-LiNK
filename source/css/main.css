@@ -547,7 +547,7 @@ a:after {
 }
 
 #news .row .col-sm-3:hover {
-    background-color: #ECC3BF;
+    background-color: #FFDFDD;
 }
 
 /****** PHOTOS ******/
@@ -633,5 +633,5 @@ a:after {
 
 #contact .dg:hover,
 #contact .lg:hover {
-    background-color: #ECC3BF;
+    background-color: #FFDFDD;
 }

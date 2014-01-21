@@ -30,7 +30,7 @@ var getPosts = function() {
             throw err;
           // displaying 24 recent news
           var $row = '<div class="row">';
-          var limit = data.length > 24 ? 24 : data.length;
+          var limit = data.length;
           var columnCount = 0;
           for (var count = 0; count < limit; count++) {
             if (typeof data[count].status_type != "undefined" && $.inArray(data[count].status_type, categories) > -1) {
@@ -59,9 +59,8 @@ var getPosts = function() {
               var news = '<div class="col-sm-3"><a href="' + link + '" target="_blank"><div class="image"><img src=' + picture + '></div><div class="text"><h4>' + month + ' ' + day + ', ' + year + '</h4><p>' + message + '</p></div></a></div>';
               $row = $row + news;
               columnCount++;
+              console.dir(data[count]);
             }
-            else
-              limit -= 1;
             if (columnCount > 3 || count == limit-1) {
               $row = $row + '</div>';
               $('#news').append($row);

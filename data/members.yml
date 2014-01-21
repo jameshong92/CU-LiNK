@@ -6,7 +6,7 @@ exec:
 - name: Joohyun Kate Lee
   position: Vice President & Secretary
   description: CC'15
-  image:
+  image: img/members/katelee.jpg
 - name: James Hyunseung Hong
   position: Treasurer
   description: B. S. candidate in Computer Engineering, SEAS'15
@@ -18,7 +18,7 @@ exec:
 - name: Soya Seo
   position: Co PR-Chair
   description: CC'14
-  image:
+  image: img/members/soyaseo.jpg
 - name: Erika Suh Holmberg
   position: Co PR-Chair
   description: B. A. candidate in East-Asian Languages and Cultures & Political Science, CC'16

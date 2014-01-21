@@ -62,7 +62,7 @@ var getPosts = function() {
             }
             else
               limit -= 1;
-            if (columnCount > 3) {
+            if (columnCount > 3 || count == limit-1) {
               $row = $row + '</div>';
               $('#news').append($row);
               $row = '<div class="row">';

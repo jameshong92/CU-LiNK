@@ -34,7 +34,7 @@ var getPosts = function() {
           var columnCount = 0;
           for (var count = 0; count < limit; count++) {
             if (typeof data[count].status_type != "undefined" && $.inArray(data[count].status_type, categories) > -1) {
-              var picture = '../img/logos/link_logo.jpg';
+              var picture = 'img/logos/link_logo.jpg';
               if (typeof data[count].picture != "undefined") {
                 var index = data[count].picture.indexOf('url=');
                 if (index > -1) {

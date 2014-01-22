@@ -1,7 +1,7 @@
 exec:
 - name: Peter Kim
   position: President
-  description: B. A. candidate in Economics-Mathematics & Sustainable Development, CC'14
+  description: B. A. in Economics-Mathematics & Sustainable Development, CC'14
   image: img/members/peterkim.jpg
 - name: Joohyun Kate Lee
   position: Vice President & Secretary
@@ -9,23 +9,23 @@ exec:
   image: img/members/katelee.jpg
 - name: James Hyunseung Hong
   position: Treasurer
-  description: B. S. candidate in Computer Engineering, SEAS'15
+  description: B. S. in Computer Engineering, SEAS'15
   image: img/members/jameshong.jpg
 - name: Lisa Tan
   position: Political Chair
-  description: CC'14
-  image:
+  description: B. A. in Political Science and Concentration in Sustainable Development, CC'14
+  image: img/members/lisatan.jpg
 - name: Soya Seo
   position: Co PR-Chair
   description: CC'14
   image: img/members/soyaseo.jpg
 - name: Erika Suh Holmberg
   position: Co PR-Chair
-  description: B. A. candidate in East-Asian Languages and Cultures & Political Science, CC'16
+  description: B. A. in East-Asian Languages and Cultures & Political Science, CC'16
   image: img/members/erikaholmberg.jpg
 - name: James Cheong
   position: Director of Event Management
-  description: M. S. candidate in Operations Research, SEAS'15
+  description: M. S. in Operations Research, SEAS'15
   image:
 
 ocm:
@@ -33,16 +33,16 @@ ocm:
   description: CC'16
   image:
 - name: InYoung Rachel Kim
-  description: CC'17
-  image:
+  description: B. S. in Earth and Environmental Engineering, SEAS '17
+  image: img/members/rachelkim.jpg
 - name: Jason Lee
   description: 
   image:
 - name: Daniel Hong
-  description: B. S. candidate in Mechanical Engineering, SEAS'17
+  description: B. S. in Mechanical Engineering, SEAS'17
   image:
 - name: Jeehyun Wang
-  description: B. S. candidate in Computer Science, SEAS'16
+  description: B. S. in Computer Science, SEAS'16
   image: img/members/jeehyunwang.jpg
 - name: Jiyoung Kim
   description: BC'16
@@ -51,10 +51,10 @@ ocm:
   description: BC'16
   image:
 - name: Julia Joo Hee Lee
-  description: B. S. candidate in Biomedical Engineering, SEAS'16
+  description: B. S. in Biomedical Engineering, SEAS'16
   image:
 - name: Janet Jisoo Park
-  description: B. A. candidate in East-Asian Languages and Cultures & Political Science, CC'16
+  description: B. A. in East-Asian Languages and Cultures & Political Science, CC'16
   image:
 - name: Yeana Lee
   description: 
@@ -72,5 +72,5 @@ ocm:
   description: 
   image:
 - name: Gijae Han
-  description: B. A. candidate in Political Science, CC'16
+  description: B. A. in Political Science, CC'16
   image:

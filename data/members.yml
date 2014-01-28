@@ -5,7 +5,7 @@ exec:
   image: img/members/peterkim.jpg
 - name: Joohyun Kate Lee
   position: Vice President & Secretary
-  description: CC'15
+  description: B. A. in East-Asian Languages and Cultures & English and Comparative Literature, CC'15
   image: img/members/katelee.jpg
 - name: James Hyunseung Hong
   position: Treasurer
@@ -13,24 +13,20 @@ exec:
   image: img/members/jameshong.jpg
 - name: Lisa Tan
   position: Political Chair
-  description: B. A. in Political Science and Concentration in Sustainable Development, CC'14
+  description: B. A. in Political Science & Concentration in Sustainable Development, CC'14
   image: img/members/lisatan.jpg
-- name: Soya Seo
-  position: Co PR-Chair
-  description: CC'14
-  image: img/members/soyaseo.jpg
 - name: Erika Suh Holmberg
-  position: Co PR-Chair
+  position: PR Chair
   description: B. A. in East-Asian Languages and Cultures & Political Science, CC'16
   image: img/members/erikaholmberg.jpg
 - name: James Cheong
   position: Director of Event Management
   description: M. S. in Operations Research, SEAS'15
-  image:
+  image: img/members/jamescheong.jpg
 
 ocm:
 - name: Nawaz Sultani
-  description: CC'16
+  description: B. A. in Mathematics, CC'16
   image:
 - name: InYoung Rachel Kim
   description: B. S. in Earth and Environmental Engineering, SEAS '17
@@ -40,37 +36,43 @@ ocm:
   image:
 - name: Daniel Hong
   description: B. S. in Mechanical Engineering, SEAS'17
-  image:
+  image: img/members/danielhong.jpg
 - name: Jeehyun Wang
   description: B. S. in Computer Science, SEAS'16
   image: img/members/jeehyunwang.jpg
 - name: Jiyoung Kim
-  description: BC'16
-  image:
+  description: B. A. in Psychology and Economics, BC'16
+  image: img/members/jiyoungkim.jpg
 - name: Hannah Kim
-  description: BC'16
+  description: B. A. in Psychology, BC'16
   image:
+- name: Risti Kim
+  description: CC'16
+  image: 
 - name: Julia Joo Hee Lee
   description: B. S. in Biomedical Engineering, SEAS'16
-  image:
+  image: img/members/julialee.jpg
 - name: Janet Jisoo Park
   description: B. A. in East-Asian Languages and Cultures & Political Science, CC'16
-  image:
-- name: Yeana Lee
-  description: 
-  image:
+  image: img/members/janetpark.jpg
 - name: Michelle Lam
-  description: 
+  description: BC'14
   image:
 - name: April Cho
-  description: 
-  image:
+  description: B. A. in Economics-Political Science, CC'17
+  image: img/members/aprilcho.jpg
 - name: Chee Lee
-  description: CC'16
-  image:
+  description: B. A. in Economics-Political Science, CC'16
+  image: img/members/cheelee.jpg
 - name: Rachel Lim
-  description: 
+  description: BC'16
   image:
 - name: Gijae Han
   description: B. A. in Political Science, CC'16
+  image:
+- name: Joseph Eun
+  description: CC'16
+  image:
+- name: Diane Jung
+  description: CC'16
   image:

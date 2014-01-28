@@ -52,7 +52,10 @@ var getPosts = function() {
               var time = data[count].created_time.split('T')[0];
 
               var year  = time.split("-")[0];
-              var month   = months[time.split("-")[1]];
+              var month_index = time.split("-")[1];
+              if (month_index.indexOf("0") == 0)
+                month_index = time.split("-")[1].substring(1);
+              var month   = months[month_index];
               var day = time.split("-")[2];
 
               var link = 'http://www.facebook.com/' + data[count].id.split("_").join("/posts/");

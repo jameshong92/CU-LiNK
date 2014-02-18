@@ -47,17 +47,17 @@ ocm:
   description: B. A. in Psychology, BC'16
   image:
 - name: Risti Kim
-  description: CC'16
-  image: 
+  description: B. A. in Neuroscience, CC'16
+  image: img/members/ristikim.jpg
 - name: Julia Joo Hee Lee
   description: B. S. in Biomedical Engineering, SEAS'16
   image: img/members/julialee.jpg
 - name: Janet Jisoo Park
-  description: B. A. in East-Asian Languages and Cultures & Political Science, CC'16
+  description: B. A. in Economics-Political Science, CC'16
   image: img/members/janetpark.jpg
 - name: Michelle Lam
-  description: BC'14
-  image:
+  description: B. A. in East-Asian Languages and Cultures & Global Health, BC'14
+  image: img/members/michellelam.jpg
 - name: April Cho
   description: B. A. in Economics-Political Science, CC'17
   image: img/members/aprilcho.jpg
@@ -71,8 +71,8 @@ ocm:
   description: B. A. in Political Science, CC'16
   image:
 - name: Joseph Eun
-  description: CC'16
-  image:
-- name: Diane Jung
-  description: CC'16
-  image:
+  description: B. S. in Materials Science and Engineering, SEAS'15
+  image: img/members/josepheun.jpg
+- name: Karleta Peterson
+  description: B. A. in East-Asian Languages and Cultures & Political Science, CC'16
+  image: img/members/karletapeterson.jpg

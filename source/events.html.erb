@@ -6,7 +6,7 @@ title: Events | CU Liberty in North Korea
 		<div class="row centered">
 			<div id="upcoming">
 				<h1>Upcoming Event</h1>
-				<% data.events.upcoming.each do |event| %>
+				<% data.events.upcoming.each_with_index do |event, index| %>
 				    <div class="row">
 				    	<div class="col-lg-6">
 							<h2><%= event.event %></h2>
@@ -21,6 +21,9 @@ title: Events | CU Liberty in North Korea
 							</div>
 						</div>
 				    </div>
+				    <% if index != data.events.upcoming.size - 1 %>
+				    	<hr>
+				    <% end %>
 			    <% end %>
 			</div>
 		</div>

@@ -1,13 +1,25 @@
 upcoming:
-- event: "\"Jo-hwa\":<br>Art Exhibition & Fundraiser"
-  date: February 6 at 7:00pm - February 8 at 6:00pm
+- event: Speaker Panel
+  date: March 6 at 7:00pm
+  location: Location TBA
+  description: Description TBA
+  image: img/logos/link_logo.jpg
+  url: "#"
+past:
+- event: "\"Jo-hwa\": Art Exhibition & Fundraiser"
+  date: February 6 - February 8, 2014
   location: ATP Gallery (269 Bleecker Street)
-  description: Jo-hwa is a Korean word that translates to harmony.</p><p>ATP Gallery is proud to announce the opening reception of "Jo-hwa", an art exhibition that aims to raise awareness for North Korea.</p><p>We seek to raise funds on behalf of <a href="http://libertyinnorthkorea.org" target="_blank">Liberty in North Korea</a>, the only full-time grassroots organization in North America dedicated to the North Korean human rights and humanitarian crisis.</p><br><p>OPENING RECEPTION<br>Thursday, February 6 | 7:00PM-10:00PM<br>Performances to follow. Refreshments provided.</p><p>GALLERY HOURS<br>Saturday, February 8 | 11:00AM-6:00PM<br>* includes a traditional Korean Fan Dance (3PM) and Korean tea
+  description: Jo-hwa is a Korean word that translates to harmony.</p><p>ATP Gallery is proud to announce the opening reception of "Jo-hwa", an art exhibition that aims to raise awareness for North Korea.</p><p>We seek to raise funds on behalf of <a href="http://libertyinnorthkorea.org" target="_blank">Liberty in North Korea</a>, the only full-time grassroots organization in North America dedicated to the North Korean human rights and humanitarian crisis.</p><br><p><u>OPENING RECEPTION</u><br>Thursday, February 6 | 7:00PM-10:00PM<br>Performances to follow. Refreshments provided.</p><p><u>GALLERY HOURS</u><br>Saturday, February 8 | 11:00AM-6:00PM<br>* includes a traditional Korean Fan Dance (3PM) and Korean tea
   image: img/events/02082014.jpg
   url: https://www.facebook.com/events/590200411059090/
-past:
+- event: "\"Secret State of North Korea\" Documentary Screening"
+  date: February 5, 2014
+  location: Satow Room, Lerner Hall 5th Floor
+  description: Come to CU LiNK's free screening of "Secret State of North Korea," a newly-released PBS "Frontline" documentary. (FREE PIZZA will be provided!)</p><p>Using undercover footage from inside North Korea and interviews with recent defectors, "Secret State" exposes the hidden world of the North Korean people living under Kim Jong-Un's dictatorship and the recent growth of information flowing into and out of North Korea, the most sealed-off country in the world.</p><p><a href="http://www.thirteen.org/programs/frontline/secret-state-of-north-korea-preview/" target="_blank">Watch a preview</a>
+  image: img/events/02052014.jpg
+  url: https://www.facebook.com/events/587628624639646/
 - event: "Insomnia Cookies Donation Day"
-  date: All day on January 27, 2014
+  date: January 27, 2014
   location: 1028 Amsterdam Ave (between 110th and 111th)
   description: Help CU LiNK raise money by purchasing Insomnia cookies from Morningside Heights branch (1028 Amsterdam Ave. between 110th and 111th St.).</p><p>A portion of sales will be donated to LiNK, our parent organization, in order to ensure safe passage through China for refugees and rescue sexually trafficked North Korean women.
   image: img/events/01272014.jpg

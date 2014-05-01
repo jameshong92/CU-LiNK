@@ -7,7 +7,6 @@
         <title><%= current_page.data.title || "CU Liberty in North Korea" %></title>
         <meta name="description" content="">
         <meta name="author" content="">
-        <meta name="viewport" content="width=device-width">
 
         <link rel="icon" href="favicon.ico" type="image/icon">
         <link rel="shortcut icon" href="favicon.ico" type="image/icon">
@@ -31,7 +30,7 @@
 
         <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
-
+        <script src="js/analytics.js"></script>
         <% if content_for?(:js) %>
             <%= yield_content :js %>
         <% end %>

@@ -9,7 +9,7 @@ exec:
   image: img/members/katelee.jpg
 - name: James Hyunseung Hong
   position: Treasurer
-  description: B. S. in Computer Engineering, SEAS'15
+  description: B. S. in Computer Engineering, SEAS'16
   image: img/members/jameshong.jpg
 - name: Lisa Tan
   position: Political Chair
@@ -31,9 +31,6 @@ ocm:
 - name: InYoung Rachel Kim
   description: B. S. in Earth and Environmental Engineering, SEAS '17
   image: img/members/rachelkim.jpg
-- name: Jason Lee
-  description: 
-  image:
 - name: Daniel Hong
   description: B. S. in Mechanical Engineering, SEAS'17
   image: img/members/danielhong.jpg
@@ -45,7 +42,7 @@ ocm:
   image: img/members/jiyoungkim.jpg
 - name: Hannah Kim
   description: B. A. in Psychology, BC'16
-  image:
+  image: img/members/hannahkim.jpg
 - name: Risti Kim
   description: B. A. in Neuroscience, CC'16
   image: img/members/ristikim.jpg
@@ -65,14 +62,17 @@ ocm:
   description: B. A. in Economics-Political Science, CC'16
   image: img/members/cheelee.jpg
 - name: Rachel Lim
-  description: BC'16
-  image:
+  description: B. A. in East-Asian Languages and Cultures, BC'16
+  image: img/members/rachellim.jpg
 - name: Gijae Han
   description: B. A. in Political Science, CC'16
-  image:
+  image: img/members/gijaehan.jpg
 - name: Joseph Eun
   description: B. S. in Materials Science and Engineering, SEAS'15
   image: img/members/josepheun.jpg
 - name: Karleta Peterson
   description: B. A. in East-Asian Languages and Cultures & Political Science, CC'16
   image: img/members/karletapeterson.jpg
+- name: Stella Kim
+  description: B. A. in Biochemistry, CC'15
+  image: img/members/stellakim.jpg
